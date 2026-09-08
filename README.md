@@ -3,7 +3,7 @@
 <h3 align="center">M.Sc. Data Science Student | B.Sc. Computer Science Graduate | Aspiring Data Scientist & Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile!;B.Sc.+Computer+Science+Graduate;Aspiring+Software+Developer;Interested+in+AI+%26+Web+Development;Always+Learning+Something+New" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile!;B.Sc.+Computer+Science+Graduate;Aspiring+DATA+SCIENTIST;Interested+in+AI+%26+Web+Development;Always+Learning+Something+New" alt="Typing SVG" />
 </p>
 
 <p align="center">
